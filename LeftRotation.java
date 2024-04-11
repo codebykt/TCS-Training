@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SwapBits {
+public class LeftRotation {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
